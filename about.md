@@ -20,10 +20,8 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <span class="contacticon center">
 	
 	
-	
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	
 	
 	
 </span>

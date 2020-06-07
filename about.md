@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
+    
 
 <p><img class="col one right" src="/img/Ses.jpg" /></p>
 
@@ -31,5 +30,3 @@ Link to your social media connections, too. This theme is set up to use <a href=
 
 </div>
 
-      </div>
-    </div>

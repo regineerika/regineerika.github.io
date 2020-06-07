@@ -4,6 +4,10 @@ title: about
 permalink: /about/
 ---
 
+<div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
 <p><img class="col one right" src="/img/Ses.jpg" /></p>
 
 <br/>
@@ -20,7 +24,12 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 </span></p>
 
+
 <div class="col three caption">
 	You can even add a little note about which of these is the best way to reach you.
 </div>
 
+</div>
+
+      </div>
+    </div>

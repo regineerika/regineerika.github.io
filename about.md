@@ -4,7 +4,6 @@ title: about
 permalink: /about/
 ---
 
-<div class="page-content">
     
 
 <p><img class="col one right" src="/img/Ses.jpg" /></p>
@@ -17,16 +16,15 @@ Link to your social media connections, too. This theme is set up to use <a href=
 
 <br/>
 <hr/>
-<p><br/>
+<br/>
 <span class="contacticon center">
 	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-</span></p>
+	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
+</span>
 
 
 <div class="col three caption">
 	You can even add a little note about which of these is the best way to reach you.
-</div>
-
 </div>
 

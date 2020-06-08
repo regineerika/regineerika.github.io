@@ -11,5 +11,7 @@ description: Something something
         <h2><a class="gallery-title" href="{{ gallery.url | prepend: site.baseurl }}">{{ gallery.title }}</a></h2>
         <p class="post-meta">{{ poem.date | date: '%B %-d, %Y — %H:%M' }}</p>
       </li>
+    
+    <a href="Ses.jpg" class="gray">image</a>
 {% endfor %}
 </ul>

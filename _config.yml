@@ -22,7 +22,7 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  gal:
+  gallery:
     output: true
     permalink: /gal/:path/
 

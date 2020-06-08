@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /gal/
-title: gal
+permalink: /gallery/
+title: gallery
 description: Something something
 ---
 

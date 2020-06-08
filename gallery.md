@@ -6,9 +6,9 @@ description: Something something
 ---
 
 <ul class="post-list">
-{% for poem in site.poetry reversed %}
+{% for gallery in site.gallery reversed %}
     <li>
-        <h2><a class="poem-title" href="{{ poem.url | prepend: site.baseurl }}">{{ poem.title }}</a></h2>
+        <h2><a class="gallery-title" href="{{ gallery.url | prepend: site.baseurl }}">{{ gallery.title }}</a></h2>
         <p class="post-meta">{{ poem.date | date: '%B %-d, %Y — %H:%M' }}</p>
       </li>
 {% endfor %}

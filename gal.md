@@ -2,7 +2,7 @@
 layout: page
 permalink: /gal/
 title: gal
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Something something
 ---
 
 <ul class="post-list">

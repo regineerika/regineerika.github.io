@@ -24,7 +24,7 @@ collections:
     permalink: /portfolio/:path/
   gallery:
     output: true
-    permalink: /gal/:path/
+    permalink: /gallery/:path/
 
 
 

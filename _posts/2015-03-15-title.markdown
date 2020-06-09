@@ -14,7 +14,7 @@ description: march & april, looking forward to summer
 <p style="font-size:30px">This is a paragraph.</p>
 <p style="font-size:11px">This is another paragraph.</p>
 
-<p style="font-size:20px">
+
 யாரை தேடி நெஞ்சமே
 கண்ணில் ஜாடை பேசுது
 நீயும் என்னை நெருங்க
@@ -27,9 +27,8 @@ description: march & april, looking forward to summer
 இதயம் கடந்தாய்…..
 
 ஓ ஓ ஹோய்…..
-</p>
 
-<p style="font-size:20px">
+
 降り始めた雪は足跡消して
 真っ白な世界に一人の私
 風が心にささやくの
@@ -39,9 +38,7 @@ description: march & april, looking forward to summer
 誰にも打ち明けずに
 悩んでたそれももう
 止めよう
-</p>
 
-<p style="font-size:20px">
 诗曰：
 
 　　　　混沌未分天地乱，茫茫渺渺无人见。
@@ -64,7 +61,7 @@ description: march & april, looking forward to summer
 于丑。又经五千四百岁，丑会终而寅会之初，发生万物。历曰：“天气下降，地
 气上升；天地交合，群物皆生。”至此，天清地爽，阴阳交合。再五千四百岁，
 正当寅会，生人，生兽，生禽，正谓天地人，三才定位。故曰，人生于寅。
-</p>
+
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 

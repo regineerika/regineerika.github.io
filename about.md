@@ -18,7 +18,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <span class="contacticon center">
 	<a href="https://github.com/regineerika" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.instagram.com/regine_erika/" target="_blank"><i class="fa fa-instagram"></i></a>
-	<a href="/img/WechatQR.pdf" target="_blank"><i class="fa fa-weixin"></i></a>
+	<a href="/img/WechatQR.jpeg" target="_blank"><i class="fa fa-weixin"></i></a>
 </span>
 
 

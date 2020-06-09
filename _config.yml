@@ -22,9 +22,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  gallery:
+  photoportfolio:
     output: true
-    permalink: /gallery/:path/
+    permalink: /"collection/:path/
 
 
 

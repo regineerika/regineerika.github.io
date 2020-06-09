@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: collection 
 title: photoportfolio
 permalink: /photoportfolio/
+collection: photoportfolio
+entries_layout: grid
+classes: wide
 ---
 
 

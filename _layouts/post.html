@@ -21,13 +21,13 @@ layout: default
           <td> 
             {% if page.previous.url %}
             <a class="prev" href="{{page.previous.url | prepend: site.baseurl}}">
-            <b><span>&lt; {{page.previous.title}}</span></b>
+            <i><span>&lt; {{page.previous.title}}</span></i>
             </a> 
             {% endif %}
           </td>
           <td align="right"> {% if page.next.url %}
             <a class="next" href="{{page.next.url | prepend: site.baseurl}}">
-            <b><span>{{page.next.title}} &gt;</span></b>
+            <i><span>{{page.next.title}} &gt;</span></i>
             </a> 
             {% endif %} 
           </td>

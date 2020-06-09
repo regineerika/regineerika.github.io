@@ -18,6 +18,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <span class="contacticon center">
 	<a href="https://github.com/regineerika" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.instagram.com/regine_erika/" target="_blank"><i class="fa fa-instagram"></i></a>
+	<a href="weixin://">https://stackoverflow.com/questions/44627552/how-do-i-link-to-wechat-from-a-web-to-open-app</a><i class="fa fa-instagram"></i></a>
 </span>
 
 

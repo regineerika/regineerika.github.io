@@ -24,17 +24,7 @@ collections:
     permalink: /portfolio/:path/
   photoportfolio:
     output: true
-    permalink: /:collection/:path/
-
-defaults:
-  # _photoportfolio
-  - scope:
-      path: ""
-      type: photoportfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+    permalink: /:photoportfolio/:path/
 
 
 

@@ -24,7 +24,7 @@ collections:
     permalink: /portfolio/:path/
   photoportfolio:
     output: true
-    permalink: /"collection/:path/
+    permalink: /:collection/:path/
 
 
 

@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/Ses.jpg">    
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "Ses.jpg" and put it in the img folder. 
+I am a dog named Sesame.  I was adopted by two loving people in a really big house. I also have a roommate who's quite rambunctious... Her name is Quinoa. (Maybe I shouldn't say that about her-- but it's true. She can't read though.) Yes, I know, you're probably wondering how I can type.  Well it's none of your business now is it? 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+I write about my day-to-day life in this house.  I don't like the rain or getting wet.  I enjoy sleeping in and laying in my favorite bed.  My parents are very nice to me and I wouldn't know what to do without them.  I secretly(?) enjoy eating trash.  I usually blame it on Quinoa if there's a mess in the house- well because it's usually her anyways.  Add me on WeChat!
 
 
 <br/>

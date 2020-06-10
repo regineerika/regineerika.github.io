@@ -21,13 +21,13 @@ layout: default
           <td> 
             {% if page.previous.url %}
             <a class="prev" href="{{page.previous.url | prepend: site.baseurl}}">
-              <span><font size="+3">&laquo; </font><i>{{page.previous.title}}</i></span>
+              <span><font size="+2">&laquo; </font><i>{{page.previous.title}}</i></span>
             </a> 
             {% endif %}
           </td>
           <td align="right"> {% if page.next.url %}
             <a class="next" href="{{page.next.url | prepend: site.baseurl}}">
-              <span><i>{{page.next.title}}</i><font size="+3"> &raquo;</font></span>
+              <span><i>{{page.next.title}}</i><font size="+2"> &raquo;</font></span>
             </a> 
             {% endif %} 
           </td>

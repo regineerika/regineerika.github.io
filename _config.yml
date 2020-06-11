@@ -17,7 +17,7 @@ highlighter: rouge
 paginate: 1
 paginate_path: "/blog/page:num/"
 
-plugins:
+gems:
   - jekyll-paginate
   - jekyll/figure
 

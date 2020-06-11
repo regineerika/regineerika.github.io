@@ -21,6 +21,7 @@ paginate_path: "/blog/page:num/"
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-email-protect
   
 collections:
   portfolio:

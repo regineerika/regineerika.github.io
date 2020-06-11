@@ -16,7 +16,7 @@ I write about my day-to-day life in this house.  I don't like the rain or gettin
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:{{ "kikay.vo@gmail.com" | encode_email }}" title="Contact me" target="_blank"><i class="fa fa-envelope"></i></a>
+	<a href="mailto:{{ "kikay.vo@gmail.com" | encode_email }}" title="Contact me" target="_blank"><i class="fa fa-at"></i></a>
 	<a href="https://github.com/regineerika" target="_blank"><i class="fa fa-github"></i></a>
 	<a href="https://www.instagram.com/regine_erika/" target="_blank"><i class="fa fa-instagram"></i></a>
 	<a href="/img/WechatQRcode.jpeg" target="_blank"><i class="fa fa-weixin"></i></a>

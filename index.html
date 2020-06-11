@@ -32,14 +32,13 @@ pagination:
       &laquo;
       </font></a>
   {% else %}
-  <span class="previous"><font size="+2">&laquo;</font></span>
+    <span class="previous"><font size="+2">&laquo;</font></span>
   {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
+    <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="next"><font size="+2">&raquo;</font></a>
+    <a href="{{ paginator.next_page_path }}" class="next"><font size="+2">&raquo;</font></a>
   {% else %}
-  <span class="next "><font size="+2">&raquo;</font></span>
+    <span class="next "><font size="+2">&raquo;</font></span>
   {% endif %}
 </div>

@@ -30,7 +30,7 @@ pagination:
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
 	{% if paginator.previous_page %}
-	 	<a rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}"><font size= "+2">&laquo; </font>r</a>
+	 	<a rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}"><font size= "+2">&laquo; </font></a>
 	{% else %}
 		<span><font size= "+2">&laquo; </font></span>
 	{% endif %}

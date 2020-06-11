@@ -32,7 +32,7 @@ pagination:
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><font size="+2">&laquo; </font></a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span><font size="+2">&laquo; </font></span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -48,7 +48,7 @@ pagination:
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><font size="+2"> &raquo;</font></a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span><font size="+2"> &raquo;</font></span>
   {% endif %}
 </div>
 {% endif %}

@@ -6,8 +6,6 @@ description: this is what included images could look like
 ---
 <p>/uploads/Niya - A Beginning.mp3</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e2DoP8ayKIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Fingerstache four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. 
 
 <div class="img_row">

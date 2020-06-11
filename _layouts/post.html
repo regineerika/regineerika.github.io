@@ -9,7 +9,9 @@ layout: default
       page.meta }}{% endif %}</p>
     <p class="post-meta">{%if page.category %}{{ page.category }}{% endif %}</p>
   </header>
-
+    
+    {% include reading-time.html %}
+  
   <article class="post-content">
     {{ content }}
   </article>

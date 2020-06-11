@@ -17,10 +17,11 @@ highlighter: rouge
 paginate: 1
 paginate_path: "/blog/page:num/"
 
-gems:
+# Gems
+plugins:
   - jekyll-paginate
-  - jekyll/figure
-
+  - jekyll-gist
+  
 collections:
   portfolio:
     output: true

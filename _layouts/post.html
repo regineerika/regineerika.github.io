@@ -18,9 +18,10 @@ layout: default
     <div>
       <table style="width:100%">
         <tr>
-          <td align="left"> {% if page.previous.url %}
+          <td> 
+            {% if page.previous.url %}
             <a class="prev" href="{{page.previous.url | prepend: site.baseurl}}">
-              <span><font size="+2">&laquo; </font><i>{{page.previous.title}}</i></span>
+              <span><font size= "+2>&raquo; </font>{{page.previous.title}}</span>
             </a> 
             {% endif %}
           </td>

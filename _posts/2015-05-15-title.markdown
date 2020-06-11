@@ -4,6 +4,7 @@ title:  Images of Sesame
 date: 2015-05-15 21:01:00
 description: this is what included images could look like
 ---
+<p>/uploads/Paper_Navy_-_08_-_Swan_Song.mp3</p>
 
 <object width="300" height="50"><param name="movie" value="/swf/trackplayer.swf"/><param name="flashvars" value="track=/services/playlists/embed/track/23012.xml"/><param name="allowscriptaccess" value="sameDomain"/><embed type="application/x-shockwave-flash" src="/swf/trackplayer.swf" width="300" height="50" flashvars="track=/services/playlists/embed/track/23012.xml" allowscriptaccess="sameDomain" /></object>
 

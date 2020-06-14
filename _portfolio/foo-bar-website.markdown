@@ -1,30 +1,55 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
-header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /img/Big-dog.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+layout: post
+title: Project
+description: a project with a background image
+img: /img/12.jpg
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+	---
+	layout: post
+	title: Project
+	description: a project with a background image
+	img: /img/12.jpg
+	---
+
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	This image can also have a caption. It's like magic. 
+</div>
+
+You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
+
+<br/><br/><br/>
+
+
+The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+
+	<div class="img_row">
+	  <img class="col two" src="/img/6.jpg"/>
+	  <img class="col one" src="/img/11.jpg"/>
+	</div>

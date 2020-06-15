@@ -30,3 +30,11 @@ collections:
   photoportfolio:
     output: true
     permalink: /:photoportfolio/:path/
+    
+mini_magick:
+  photoFolders:
+      source: images/galleryv2
+      destination: thumbnails/images/galleryv2
+      resize: "320x240^"
+      gravity: "center"
+      extent: "320x240"

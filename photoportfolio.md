@@ -27,5 +27,8 @@ permalink: /photoportfolio/
 
 
 <!-- this is for the lightbox --> 
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
+<script src="js/lightgallery.min.js"></script>
+<link rel="stylesheet" href="css/lightgallery.css">
+<script>
+    lightGallery(document.getElementById('lightgallery'));
+</script>

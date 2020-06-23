@@ -27,9 +27,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  photoportfolio:
-    output: true
-    permalink: /:photoportfolio/:path/
     
 mini_magick:
   photoFolders:

@@ -27,7 +27,7 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  chocomilkfiles:
+  choco:
     output: true
     permalink: /choco/:path/
     

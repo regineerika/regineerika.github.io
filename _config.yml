@@ -27,9 +27,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
+  choco:
     output: true
-    permalink: /poetry/:path/
+    permalink: /choco/:path/
     
 mini_magick:
   photoFolders:

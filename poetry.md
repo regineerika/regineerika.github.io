@@ -2,7 +2,7 @@
 layout: page
 permalink: /poetry/
 title: chocomilk files
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: A collection of chocolate milk and my thoughts on them.
 ---
 
 <ul class="post-list">

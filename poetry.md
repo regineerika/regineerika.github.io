@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /poetry/
-title: chocomilk files
+title: choco milk files
 description: A collection of chocolate milk and my thoughts on them.
 ---
 

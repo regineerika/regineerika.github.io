@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /chocoMilk/
-title: chocoMilk
+title: Chocolate Milk
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 

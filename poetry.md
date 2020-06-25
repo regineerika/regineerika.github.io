@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /poetry/
-title: Chocolate Milk Files
+title: chocolate milk files
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 

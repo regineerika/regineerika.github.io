@@ -41,6 +41,7 @@ To show how cold she is, and dumb.
 Let the lamp affix its beam.    
 The only emperor is the emperor of ice-cream.     
 <br>
+<br>
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
@@ -58,7 +59,7 @@ The only emperor is the emperor of ice-cream.
     <td>94</td>
   </tr>
 </table>
-
+<br>
 <table>
 <colgroup>
 <col width="30%" />
@@ -84,4 +85,3 @@ The only emperor is the emperor of ice-cream.
 </table>
 <br>
 </details>
-<br>

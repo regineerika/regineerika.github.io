@@ -43,9 +43,6 @@ The only emperor is the emperor of ice-cream.
 <br>
 <br>
 <table style="width:100%">
-  th {
-  text-align: left;
-}
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
@@ -87,35 +84,4 @@ The only emperor is the emperor of ice-cream.
 </tbody>
 </table>
 <br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8385{background-color:#9698ed;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8385">1</th>
-    <th class="tg-8385">2</th>
-    <th class="tg-8385">3</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-73oq">a</td>
-    <td class="tg-73oq">c</td>
-    <td class="tg-73oq">v</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">e</td>
-    <td class="tg-73oq">r</td>
-    <td class="tg-73oq">t</td>
-  </tr>
-</tbody>
-</table>
-<br>
-</details>
+</details><br>

@@ -33,7 +33,7 @@ The only emperor is the emperor of ice-cream.
 <details>
   <summary><b>Hershey's Chocolate Milk</b></summary>
 
-<img class="col one right" src="/img/Ses.jpg"</img>
+<img class="col one right" src="/img/Ses.jpg">
 <br>
 <table style="width:100%">
   <colgroup>

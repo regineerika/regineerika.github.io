@@ -4,12 +4,6 @@ title: The Emperor of Ice Cream
 date: 2015-07-06 07:59:00
 ---
 
-<button data-toggle="collapse" data-target="#demo">Collapsible</button>
-
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
-</div>
-
 <details>
   <summary><b>China Chocolate Soy Milk</b></summary>
   According to 2010 Census Bureau estimates, New Orleans' population is made up of approximately 343,829 residents.
@@ -28,15 +22,15 @@ Lorem ipsum dolor text....
 <details>
   <summary><b>Hershey's Chocolate Milk</b></summary>
 
-Wallace Stevens<br>
-Call the roller of big cigars,    
-The muscular one, and bid him whip    
-In kitchen cups concupiscent curds.    
-Let the wenches dawdle in such dress    
-As they are used to wear, and let the boys    
-Bring flowers in last month's newspapers.    
-Let be be finale of seem.    
-The only emperor is the emperor of ice-cream.    
+  Wallace Stevens<br>
+  Call the roller of big cigars,    
+  The muscular one, and bid him whip    
+  In kitchen cups concupiscent curds.    
+  Let the wenches dawdle in such dress    
+  As they are used to wear, and let the boys    
+  Bring flowers in last month's newspapers.    
+  Let be be finale of seem.    
+  The only emperor is the emperor of ice-cream.    
     
 Take from the dresser of deal.    
 Lacking the three glass knobs, that sheet    

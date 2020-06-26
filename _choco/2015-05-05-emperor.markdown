@@ -64,11 +64,13 @@ The only emperor is the emperor of ice-cream.
 <br>
 
 <table>
-  <colgroup><col width="30%" /><col width="70%" />
+  <colgroup>
+    <col width="30%" />
+    <col width="70%" />
   </colgroup>
   <thead>
     <tr class="header">
-      <th></th>
+      <th>x</th>
       <th>Description</th>
     </tr>
   </thead>

@@ -3,6 +3,7 @@ layout: post
 title: In That Other Fantasy Where We Live Forever 
 date: 2015-08-06 07:59:00
 ---
+---
 accordion: 
   - title: チョコミルク
     content: First Header  | Second Header Wallace Stevens Call the roller of big cigars, The muscular one, and bid him whip In kitchen cups concupiscent curds. Let the wenches dawdle in such dress As they are used to wear, and let the boys Bring flowers in last month's newspapers. 

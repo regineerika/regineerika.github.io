@@ -70,16 +70,24 @@ The only emperor is the emperor of ice-cream.
   </colgroup>
   <tbody>
     <tr>
-      <p style="border-bottom:1px dotted gray;">
-        <td markdown="span">**Brand**</td>
-        <td markdown="span">Chinese</td>
-      </p>
+      <td markdown="span">**Country**</td>
+      <td markdown="span">China</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Company**</td>
+      <td markdown="span">Chinese</td>
     </tr>
     <tr>
       <td markdown="span">**Price**</td>
       <td markdown="span">7.99</td>
     </tr>
+    <tr>
+      <td markdown="span">**Taste**</td>
+      <td markdown="span">It was creamy but diluted. Sad really.</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Rating**</td>
+      <td markdown="span">&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+    </tr>
   </tbody>
 </table>
-
-<br>

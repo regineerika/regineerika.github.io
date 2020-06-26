@@ -4,9 +4,9 @@ title: The Emperor of Ice Cream
 date: 2015-07-06 07:59:00
 ---
 
-# A collapsible section with markdown
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Chocolate milk 1</summary>
   
   ## Heading
   1. A numbered

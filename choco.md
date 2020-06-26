@@ -2,7 +2,7 @@
 layout: page
 permalink: /choco/
 title: drink files
-description: A collection of chocolate milk and my thoughts on them.
+description: A collection of different drinks and my thoughts on them.
 ---
 
 <ul class="post-list">

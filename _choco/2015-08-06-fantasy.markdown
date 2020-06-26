@@ -13,7 +13,11 @@ accordion:
   - title: Hello  
     content:
     - This is the first section.
-    - This is the second section.
+    - This is the second section.   <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
 ---
 <table style="width:100%">
   <tr>

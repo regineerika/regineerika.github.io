@@ -12,7 +12,10 @@ accordion:
     
   - title: Hello  
     content: 
-      sections: This is the first section.  <table style="width:100%"><tr><th>Firstname</th><th>Lastname</th><th>Age</th></table>
+      sections:
+        intro: This is the introduction
+        conclusion: |
+          There are many useful ways to use YAML front matter.
 ---
 <table style="width:100%">
   <tr>

@@ -60,19 +60,19 @@ The only emperor is the emperor of ice-cream.
     </tr>
     <tr>
       <td markdown="span">**Price**</td>
-      <td markdown="span">7.99</td>
+      <td markdown="span">20元</td>
     </tr>
     <tr>
-      <td markdown="span">**Taste**</td>
+      <td markdown="span">**Taste & Thoughts**</td>
       <td markdown="span">It was creamy but diluted. Sad really.</td>
     </tr>
     <tr>
-      <td markdown="span">**Rating**</td>
+      <td markdown="span">**My Rating**</td>
       <td markdown="span">&#9733;&#9734;&#9734;&#9734;&#9734;</td>
     </tr>
     <tr>
       <td markdown="span">**Photo**</td>
-      <td markdown="span"><img src="/img/Ses.jpg" width="70%" height="70%"></td>
+      <td markdown="span"><img src="/img/Ses.jpg" width="40%" height="40%"></td>
     </tr>
   </tbody>
 </table>

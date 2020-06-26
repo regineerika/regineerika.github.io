@@ -10,6 +10,8 @@ layout: default
     <p class="post-meta">{%if page.category %}{{ page.category }}{% endif %}</p>
   </header>
   
+  {% include accordion.html %}
+  
   <article class="post-content">
     {{ content }}
   </article>
@@ -46,5 +48,4 @@ layout: default
   </span>
   <hr>
   
-   {% include accordion.html %}
 </div>

@@ -12,23 +12,7 @@ accordion:
     
   - title: Hello  
     content: 
-      sections: This is the first section. <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
-</table>
+      sections: This is the first section. | Priority apples | Second priority | Third priority ||-------|--------|---------|| ambrosia | gala | red delicious || pink lady | jazz | macintosh || honeycrisp | granny smith | fuji |
 
 ---
 <table style="width:100%">

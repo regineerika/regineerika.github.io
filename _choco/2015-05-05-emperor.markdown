@@ -21,7 +21,7 @@ date: 2015-07-06 07:59:00
 
 <details>
   <summary>Chocolate milk 1</summary>
-
+<br>
 ### Wallace Stevens
 Call the roller of big cigars,    
 The muscular one, and bid him whip    
@@ -40,7 +40,7 @@ If her horny feet protrude, they come
 To show how cold she is, and dumb.    
 Let the lamp affix its beam.    
 The only emperor is the emperor of ice-cream.     
-&nbsp;
+<br>
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
@@ -82,5 +82,6 @@ The only emperor is the emperor of ice-cream.
 </tr>
 </tbody>
 </table>
-
+<br>
 </details>
+<br>

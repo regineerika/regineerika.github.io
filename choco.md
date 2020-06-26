@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /choco/
-title: choco milk files
+title: drink files
 description: A collection of chocolate milk and my thoughts on them.
 ---
 

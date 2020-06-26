@@ -11,8 +11,7 @@ accordion:
     content: Lacking the three glass knobs, that sheet On which she embroidered fantails once And spread it so as to cover her face. If her horny feet protrude, they come To show how cold she is, and dumb. Let the lamp affix its beam. The only emperor is the emperor of ice-cream. 
     
   - title: Hello  
-    content:
-    - This is the first section.
+    content: - This is the first section.
     - This is the second section.
 ---
 <table style="width:100%">

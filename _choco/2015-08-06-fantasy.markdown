@@ -12,7 +12,7 @@ accordion:
     
   - title: Hello  
     content: 
-      sections: This is the first section.  | Priority apples | Second priority | Third priority |
+      sections: This is the first section.  <table style="width:100%"><tr><th>Firstname</th><th>Lastname</th><th>Age</th></table>
 ---
 <table style="width:100%">
   <tr>

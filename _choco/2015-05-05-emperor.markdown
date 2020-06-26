@@ -62,7 +62,7 @@ The only emperor is the emperor of ice-cream.
     </tr>
     <tr>
       <td markdown="span">****</td>
-      <td markdown="span"><img src="/img/Ses.jpg" width height="30%"></td>
+      <td markdown="span"><img src="/img/Ses.jpg" width height="35%"></td>
     </tr>
   </tbody>
 </table>

@@ -2,7 +2,7 @@
 layout: post
 title: In That Other Fantasy Where We Live Forever 
 date: 2015-08-06 07:59:00
----
+
 accordion: 
   - title: this is item 1
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 

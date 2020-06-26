@@ -71,8 +71,7 @@ The only emperor is the emperor of ice-cream.
   <tbody>
     <tr>
       <td markdown="span">**Brand**</td>
-      <p style="border-bottom:1px dotted gray;"><td markdown="span">Chinese</td>
-      </p>
+      <p style="border-bottom:1px dotted gray;"><td markdown="span">Chinese</td></p>
     </tr>
     <tr>
       <td markdown="span">**Price**</td>

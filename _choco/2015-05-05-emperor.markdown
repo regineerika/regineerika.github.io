@@ -67,5 +67,5 @@ The only emperor is the emperor of ice-cream.
     </tr>
   </tbody>
 </table>
-<center><img src="/img/Ses.jpg" width="35%" height="35%"></center>
+<center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
 </details>

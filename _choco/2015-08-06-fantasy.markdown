@@ -12,7 +12,7 @@ accordion:
     
   - title: Hello  
     sections:
-      - This is the first section.
+      This is the first section.
 ---
 <table style="width:100%">
   <tr>

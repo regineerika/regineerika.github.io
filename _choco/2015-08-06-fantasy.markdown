@@ -4,11 +4,8 @@ title: In That Other Fantasy Where We Live Forever
 date: 2015-08-06 07:59:00
 accordion: 
   - title: this is item 1
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  - title: this is item 2
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
----
-
+    content: 
+    
 we were never caught    
     
 we partied the southwest, smoked it from L.A. to El Dorado     
@@ -20,8 +17,9 @@ authority. we could be heard for miles in the night
     
 the Grand Canyon of a new manhood.    
 womanhood discovered    
-like the first sighting of Mount Wilson    
-    
+like the first sighting of Mount Wilson
+  - title: this is item 2
+    content: 
 we rebelled against the southwestern wind     
     
 we got so naturally ripped, we sprouted wings,      
@@ -33,3 +31,4 @@ when you split you took all the wisdom
 and left me the worry     
 
 Wanda Coleman
+---

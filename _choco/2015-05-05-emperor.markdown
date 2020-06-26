@@ -5,24 +5,24 @@ date: 2015-07-06 07:59:00
 ---
 
 <details>
-  <summary>What is the population of New Orleans?</summary>
+  <summary>China Chocolate Soy Milk</summary>
   According to 2010 Census Bureau estimates, New Orleans' population is made up of approximately 343,829 residents.
-</details>
-<br>
+</details><br>
+
 <details>
-  <summary>What's a Po' Boy?</summary>
+  <summary>チョコミルク</summary>
   A po' boy (also po-boy, po boy) is a traditional sandwich from Louisiana. It almost always consists of meat, which is usually roast beef or fried seafood, often shrimp, crawfish, fish, oysters or crab.
-</details>
-<br>
+</details><br>
+
 <details>
-  <summary>How do I get to New Orleans?</summary>
+  <summary>Chocolate Mocha from 7/11</summary>
   Use Google Maps.
-</details>
-<br>
+</details><br>
+
 <details>
-  <summary>Chocolate milk 1</summary>
-<br>
-### Wallace Stevens
+  <summary>Hershey's Chocolate Milk</summary>
+
+<b>Wallace Stevens</b>
 Call the roller of big cigars,    
 The muscular one, and bid him whip    
 In kitchen cups concupiscent curds.    

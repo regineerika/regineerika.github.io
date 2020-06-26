@@ -58,7 +58,7 @@ The only emperor is the emperor of ice-cream.
       <td markdown="span">&#9733;&#9734;&#9734;&#9734;&#9734;</td>
     </tr>
     <tr>
-      <td markdown="span">**Taste & Thoughts**</td>
+      <th scope="row">**Taste & Thoughts**</th>
       <td markdown="span">It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.</td>
     </tr>
   </tbody>

@@ -42,7 +42,10 @@ Let the lamp affix its beam.
 The only emperor is the emperor of ice-cream.     
 
   First Header  | Second Header
+  
   ------------- | -------------
+  
   Content Cell  | Content Cell
+  
   Content Cell  | Content Cell
 </details>

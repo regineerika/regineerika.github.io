@@ -84,4 +84,9 @@ The only emperor is the emperor of ice-cream.
 </tbody>
 </table>
 <br>
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+<br>
 </details>

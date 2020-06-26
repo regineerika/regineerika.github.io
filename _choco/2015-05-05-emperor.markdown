@@ -42,40 +42,21 @@ To show how cold she is, and dumb.
 Let the lamp affix its beam.    
 The only emperor is the emperor of ice-cream.    
 </div>
-
-<br>
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
-</table>
 <br>
 
 <table style="width:100%">
   <colgroup>
-    <col width="15%" />
-    <col width="85%" />
+    <col width="20%" />
+    <col width="80%" />
   </colgroup>
   <tbody>
     <tr>
-      <td markdown="span">**Country**</td>
-      <td markdown="span">China</td>
+      <td markdown="span">**Country, City**</td>
+      <td markdown="span">China, Xiamen</td>
     </tr>
     <tr>
       <td markdown="span">**Company**</td>
-      <td markdown="span">Chinese</td>
+      <td markdown="span">NiuNai Co.</td>
     </tr>
     <tr>
       <td markdown="span">**Price**</td>

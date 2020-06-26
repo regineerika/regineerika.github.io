@@ -12,7 +12,7 @@ accordion:
     
   - title: Hello  
     content: 
-      sections: This is the first section. | Priority apples | Second priority | Third priority ||-------|--------|---------|| ambrosia | gala | red delicious || pink lady | jazz | macintosh || honeycrisp | granny smith | fuji |
+      sections: This is the first section.  | Priority apples | Second priority | Third priority | |-------|--------|---------| | ambrosia | gala | red delicious |
 
 ---
 <table style="width:100%">

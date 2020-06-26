@@ -68,12 +68,6 @@ The only emperor is the emperor of ice-cream.
     <col width="30%" />
     <col width="70%" />
   </colgroup>
-  <thead>
-    <tr class="header">
-      <th>x</th>
-      <th>Description</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td markdown="span">**Brand**</td>
@@ -86,18 +80,4 @@ The only emperor is the emperor of ice-cream.
   </tbody>
 </table>
 
-<table style="width:100%">
-  <tr>
-    <th>Name:</th>
-    <td>Bill Gates</td>
-  </tr>
-  <tr>
-    <th><td markdown="span">**Brand**</td></th>
-    <td>7.99</td>
-  </tr>
-  <tr>
-    <th><td markdown="span">**Price**</td></th>
-    <td>555 77 855</td>
-  </tr>
-</table>
 <br>

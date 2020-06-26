@@ -15,6 +15,18 @@ date: 2015-07-06 07:59:00
      * Sub bullets
 </details>
 
+{% for item in site.data.faqs %}
+	<div class="panel">
+		<div class="panel-heading" data-toggle="{{forloop.index}}"> 	
+			<img alt="" class="panel-heading-question" data-toggle="{{forloop.index}}" src="questionmark.png">  
+			<a href="javascript:void(0)" data-toggle="{{forloop.index}}" href="#">{{item.title}}</a>
+		</div>
+		<div class="panel-body hidden-element" data-body="{{forloop.index}}"> 
+			{{item.body}} 
+		</div>
+	</div>
+	{% endfor %}
+
 
 Call the roller of big cigars,    
 The muscular one, and bid him whip    

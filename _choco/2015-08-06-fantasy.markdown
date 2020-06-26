@@ -12,8 +12,8 @@ accordion:
     
   - title: Hello  
     content: 
-      <b>This is the first section.&emsp;&emsp;&emsp;sectionsection&emsp;&emsp;&emsp;section</b><br>
-      <b>This is the second section.</b>
+      <b>This is the first section.|</b><br>
+      <b>This is the second section.|</b>
 ---
 <table style="width:100%">
   <tr>

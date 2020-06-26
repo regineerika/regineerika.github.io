@@ -64,8 +64,7 @@ The only emperor is the emperor of ice-cream.
   </tbody>
 </table>
 
-<div style="white-space: pre">
 It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.
-</div>
+<br>
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
 </details>

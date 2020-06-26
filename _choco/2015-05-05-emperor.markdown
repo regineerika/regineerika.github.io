@@ -86,19 +86,17 @@ The only emperor is the emperor of ice-cream.
   </tbody>
 </table>
 
-<h2>Vertical Headings:</h2>
-
 <table style="width:100%">
   <tr>
     <th>Name:</th>
     <td>Bill Gates</td>
   </tr>
   <tr>
-    <th>Telephone:</th>
-    <td>555 77 854</td>
+    <th><td markdown="span">**Brand**</td></th>
+    <td>7.99</td>
   </tr>
   <tr>
-    <th>Telephone:</th>
+    <th><td markdown="span">**Price**</td></th>
     <td>555 77 855</td>
   </tr>
 </table>

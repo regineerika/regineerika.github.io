@@ -8,7 +8,9 @@ accordion:
     content: First Header  | Second Header Wallace Stevens Call the roller of big cigars, The muscular one, and bid him whip In kitchen cups concupiscent curds. Let the wenches dawdle in such dress As they are used to wear, and let the boys Bring flowers in last month's newspapers. 
     
   - title: Chocolate Soy Milk
-    content: Lacking the three glass knobs, that sheet On which she embroidered fantails once And spread it so as to cover her face. If her horny feet protrude, they come To show how cold she is, and dumb. Let the lamp affix its beam. The only emperor is the emperor of ice-cream. <table style="width:100%">
+    content: Lacking the three glass knobs, that sheet On which she embroidered fantails once And spread it so as to cover her face. If her horny feet protrude, they come To show how cold she is, and dumb. Let the lamp affix its beam. The only emperor is the emperor of ice-cream. 
+---
+<table style="width:100%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
@@ -25,4 +27,3 @@ accordion:
     <td>94</td>
   </tr>
 </table>
----

@@ -13,7 +13,7 @@ accordion:
   - title: Hello  
     content: 
       This is the first section. <br>
-      This is the second section. <table style="width:100%"><tr><th>Firstname</th><th>Lastname</th></tr></table>
+      This is the second section. <tr><th>Firstname</th><th>Lastname</th></tr>
 ---
 <table style="width:100%">
   <tr>

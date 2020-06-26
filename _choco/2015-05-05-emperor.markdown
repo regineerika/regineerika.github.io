@@ -4,6 +4,17 @@ title: The Emperor of Ice Cream
 date: 2015-07-06 07:59:00
 ---
 
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 Call the roller of big cigars,    
 The muscular one, and bid him whip    
 In kitchen cups concupiscent curds.    

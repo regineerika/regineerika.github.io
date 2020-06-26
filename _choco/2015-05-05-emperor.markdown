@@ -50,7 +50,7 @@ The only emperor is the emperor of ice-cream.
     </tr>
     <tr>
       <td markdown="span">**Price**</td>
-      <td markdown="span">20元</td>
+      <td markdown="span">20 元</td>
     </tr>
     <tr>
       <td markdown="span">**My Rating**</td>

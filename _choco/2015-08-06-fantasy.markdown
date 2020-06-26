@@ -9,12 +9,10 @@ accordion:
     
   - title: Chocolate Soy Milk
     content: Lacking the three glass knobs, that sheet On which she embroidered fantails once And spread it so as to cover her face. If her horny feet protrude, they come To show how cold she is, and dumb. Let the lamp affix its beam. The only emperor is the emperor of ice-cream. 
-    
+---    
   - title: Hey
     content: |
   This is a long section with multiple paragraphs.
-
-  This is the second paragraph of the long section.
 ---
 <table style="width:100%">
   <tr>

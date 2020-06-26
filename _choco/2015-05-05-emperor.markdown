@@ -43,6 +43,9 @@ The only emperor is the emperor of ice-cream.
 <br>
 <br>
 <table style="width:100%">
+  th {
+  text-align: left;
+}
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 

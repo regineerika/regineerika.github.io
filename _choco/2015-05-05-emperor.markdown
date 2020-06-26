@@ -36,8 +36,8 @@ The only emperor is the emperor of ice-cream.
 <br>
 <table style="width:100%">
   <colgroup>
-    <col width="25%" />
-    <col width="75%" />
+    <col width="28%" />
+    <col width="72%" />
   </colgroup>
   <tbody>
     <tr>

@@ -43,7 +43,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center> 
 </p>
 </details>
-<hr style="border: 1px dashed #C0C0C0; margin-top: 10px; margin-bottom: 10px;">
+<hr style="border: 1px dashed #C0C0C0; margin-top: 11px; margin-bottom: 11px;">
 
 <!-------- Insert New Log -------->
 <details>
@@ -85,7 +85,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
 </p>
 </details>
-<hr style="border: 1px dashed #C0C0C0; margin-top: 10px; margin-bottom: 10px;">
+<hr style="border: 1px dashed #C0C0C0; margin-top: 11px; margin-bottom: 11px;">
 
 <!-------- Insert New Log -------->
 <details>
@@ -127,7 +127,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
 </p>
 </details>
-<hr style="border: 1px dashed #C0C0C0; margin-top: 10px; margin-bottom: 10px;">
+<hr style="border: 1px dashed #C0C0C0; margin-top: 11px; margin-bottom: 11px;">
 
 <!-------- Insert New Log -------->
 <details>

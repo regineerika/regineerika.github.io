@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /choco/
-title: drink files
-description: A collection of different drinks and my thoughts on them.
+title: drink log
+description: Files of different drinks and my thoughts on them.
 ---
 
 <ul class="post-list">

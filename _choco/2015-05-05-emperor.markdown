@@ -20,6 +20,7 @@ The only emperor is the emperor of ice-cream.
 </p><br>
 </details>
 <hr style="border: 1px dashed #C0C0C0; margin-top: 5px; margin-bottom: 5px;">
+
 <!-------- Insert New Log -------->
 <details>
   <summary><b><tt><font size="5">チョコミルク</font></tt></b></summary>
@@ -60,6 +61,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
 </p>
 </details>
+<hr style="border: 1px dashed #C0C0C0; margin-top: 5px; margin-bottom: 5px;">
 
 <!-------- Insert New Log -------->
 <details>
@@ -102,6 +104,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 </p>
 </details>
 
+<hr style="border: 1px dashed #C0C0C0; margin-top: 5px; margin-bottom: 5px;">
 <!-------- Insert New Log -------->
 <details>
   <summary><b><tt><font size="5">Hershey's Chocolate Milk</font></tt></b></summary>
@@ -142,4 +145,6 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
 </p>
 </details>
+
+<hr style="border: 1px dashed #C0C0C0; margin-top: 5px; margin-bottom: 5px;">
 <!-------- Insert New Log -------->

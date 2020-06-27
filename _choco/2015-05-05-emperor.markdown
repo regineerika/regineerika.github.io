@@ -25,8 +25,40 @@ The only emperor is the emperor of ice-cream.
   <summary><b>チョコミルク</b></summary>
 
 <p>
-  A po' boy (also po-boy, po boy) is a traditional sandwich from Louisiana. It almost always consists of meat, which is usually roast beef or fried seafood, often shrimp, crawfish, fish, oysters or crab.
-</p><br>
+<table style="width:100%">
+  <colgroup>
+    <col width="30%" />
+    <col width="62%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td markdown="span">**Country, Region**</td>
+      <td markdown="span">China, Xiamen</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Company**</td>
+      <td markdown="span">NiuNai Co.</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Price**</td>
+      <td markdown="span">20 元</td>
+    </tr>
+    <tr>
+      <td markdown="span">**My Rating**</td>
+      <td markdown="span">&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+    </tr>
+    <tr>
+      <td markdown="span" style="vertical-align:top">**Taste & Thoughts**</td>
+      <td markdown="span"></td>
+    </tr>
+  </tbody>
+</table>
+
+It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.
+<br>
+<br>
+<center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
+</p>
 </details>
 
 <!-------- Insert New Log -------->
@@ -67,7 +99,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 <br>
 <br>
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
-</p><br>
+</p>
 </details>
 
 <!-------- Insert New Log -------->
@@ -108,6 +140,6 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 <br>
 <br>
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
-</p><br>
+</p>
 </details>
 <!-------- Insert New Log -------->

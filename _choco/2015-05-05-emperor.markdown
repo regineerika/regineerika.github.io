@@ -4,7 +4,7 @@ title: Chocolate Milk Files
 date: 2015-07-06 07:59:00
 ---
 <!-------- Insert New Log -------->
-<p style="line-height:85%"><details>
+<span style=“line-height:13px”><details>
   <summary><b>China Chocolate Soy Milk</b></summary>
   
 <div style="white-space: pre">
@@ -18,7 +18,7 @@ Bring flowers in last month's newspapers.
 Let be be finale of seem.    
 The only emperor is the emperor of ice-cream.       
 </div>
-</details></p>
+</details></span>
 
 <!-------- Insert New Log -------->
 <details>

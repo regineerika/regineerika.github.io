@@ -5,7 +5,7 @@ date: 2015-07-06 07:59:00
 ---
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><font size="5" face= "didot lt">China Soy Chocolate Milk</font></b></summary>
+  <summary><b><font size="5">China Soy Chocolate Milk</font></b></summary>
   
 <p>
 <table style="width:100%">
@@ -47,7 +47,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><font size="5" face= "didot lt">チョコミルク</font></b></summary>
+  <summary><b><font size="5">チョコミルク</font></b></summary>
 
 <p>
 <table style="width:100%">
@@ -89,7 +89,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><font size="5" face= "didot lt">美国的7/11</font></b></summary>
+  <summary><b><font size="5">美国的7/11</font></b></summary>
 
 <p>
 <table style="width:100%">
@@ -131,7 +131,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><font size="5" face= "didot lt">Hershey's Chocolate Milk</font></b></summary>
+  <summary><b><font size="5">Hershey's Chocolate Milk</font></b></summary>
 
 <p>
 <table style="width:100%">

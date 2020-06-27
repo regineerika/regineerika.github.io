@@ -8,16 +8,40 @@ date: 2015-07-06 07:59:00
   <summary><b><tt><font size="5">China Chocolate Soy Milk</font></tt></b></summary>
   
 <p>
-Wallace Stevens
-Call the roller of big cigars,    
-The muscular one, and bid him whip    
-In kitchen cups concupiscent curds.    
-Let the wenches dawdle in such dress    
-As they are used to wear, and let the boys    
-Bring flowers in last month's newspapers.    
-Let be be finale of seem.    
-The only emperor is the emperor of ice-cream.       
-</p><br>
+<table style="width:100%">
+  <colgroup>
+    <col width="30%" />
+    <col width="62%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td markdown="span">**Country, Region**</td>
+      <td markdown="span">China, Xiamen</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Company**</td>
+      <td markdown="span">NiuNai Co.</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Price**</td>
+      <td markdown="span">20 元</td>
+    </tr>
+    <tr>
+      <td markdown="span">**My Rating**</td>
+      <td markdown="span">&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+    </tr>
+    <tr>
+      <td markdown="span" style="vertical-align:top">**Taste & Thoughts**</td>
+      <td markdown="span"></td>
+    </tr>
+  </tbody>
+</table>
+
+It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.
+<br>
+<br>
+<center><img src="/img/Ses.jpg" width="40%" height="40%"></center> 
+</p>
 </details>
 <hr style="border: 1px dashed #C0C0C0; margin-top: 10px; margin-bottom: 10px;">
 

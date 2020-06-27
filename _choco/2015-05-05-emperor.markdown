@@ -7,7 +7,7 @@ date: 2015-07-06 07:59:00
 <details>
   <summary><b>China Chocolate Soy Milk</b></summary>
   
-<div style="white-space: pre; line-height: 150%">
+<div style="white-space: pre">
 Wallace Stevens
 Call the roller of big cigars,    
 The muscular one, and bid him whip    
@@ -17,7 +17,7 @@ As they are used to wear, and let the boys
 Bring flowers in last month's newspapers.    
 Let be be finale of seem.    
 The only emperor is the emperor of ice-cream.       
-</div>
+</div><br>
 </details>
 
 <!-------- Insert New Log -------->

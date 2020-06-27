@@ -22,7 +22,7 @@ The only emperor is the emperor of ice-cream.
 
 <!-------- Insert New Log -------->
 <details>
-  <summary><tt><font size="4">チョコミルク</font></tt></b></summary>
+  <summary><b><tt><font size="4">チョコミルク</font></tt></b></summary>
 
 <p>
 <table style="width:100%">

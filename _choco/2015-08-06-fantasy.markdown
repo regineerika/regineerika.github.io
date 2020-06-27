@@ -1,35 +1,150 @@
 ---
 layout: post
 title: Coffee Files
-date: 2015-08-06 07:59:00
-
-accordion: 
-  - title: チョコミルク
-    content: First Header  | Second Header  | <br>
-      - Wallace Stevens Call the roller of big cigars, The muscular one, and bid him whip In kitchen cups concupiscent curds. Let the wenches dawdle in such dress As they are used to wear, and let the boys Bring flowers in last month's newspapers. 
-    
-  - title: Chocolate Soy Milk
-    content: Lacking the three glass knobs, that sheet On which she embroidered fantails once And spread it so as to cover her face. If her horny feet protrude, they come To show how cold she is, and dumb. Let the lamp affix its beam. The only emperor is the emperor of ice-cream. 
-    
-  - title: Hello  
-    content: 
-      <b>This is the first section.</b>| <br> |
-      <b>This is the second section.</b>
+date: 2014-07-06 07:59:00
 ---
+<!-------- Insert New Log -------->
+<details>
+  <summary><b><tt><font size="5">China Chocolate Soy Milk</font></tt></b></summary>
+  
+<p>
+Wallace Stevens
+Call the roller of big cigars,    
+The muscular one, and bid him whip    
+In kitchen cups concupiscent curds.    
+Let the wenches dawdle in such dress    
+As they are used to wear, and let the boys    
+Bring flowers in last month's newspapers.    
+Let be be finale of seem.    
+The only emperor is the emperor of ice-cream.       
+</p><br>
+</details>
+<hr style="border: 1px dashed #C0C0C0; margin-top: 10px; margin-bottom: 10px;">
+
+<!-------- Insert New Log -------->
+<details>
+  <summary><b><tt><font size="5">チョコミルク</font></tt></b></summary>
+
+<p>
 <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
+  <colgroup>
+    <col width="30%" />
+    <col width="62%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td markdown="span">**Country, Region**</td>
+      <td markdown="span">China, Xiamen</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Company**</td>
+      <td markdown="span">NiuNai Co.</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Price**</td>
+      <td markdown="span">20 元</td>
+    </tr>
+    <tr>
+      <td markdown="span">**My Rating**</td>
+      <td markdown="span">&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+    </tr>
+    <tr>
+      <td markdown="span" style="vertical-align:top">**Taste & Thoughts**</td>
+      <td markdown="span"></td>
+    </tr>
+  </tbody>
 </table>
+
+It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.
+<br>
+<br>
+<center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
+</p>
+</details>
+<hr style="border: 1px dashed #C0C0C0; margin-top: 10px; margin-bottom: 10px;">
+
+<!-------- Insert New Log -------->
+<details>
+  <summary><b><tt><font size="5">美国的7/11</font></tt></b></summary>
+
+<p>
+<table style="width:100%">
+  <colgroup>
+    <col width="30%" />
+    <col width="62%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td markdown="span">**Country, Region**</td>
+      <td markdown="span">xx</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Company**</td>
+      <td markdown="span">xx</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Price**</td>
+      <td markdown="span">xx</td>
+    </tr>
+    <tr>
+      <td markdown="span">**My Rating**</td>
+      <td markdown="span">&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+    </tr>
+    <tr>
+      <td markdown="span" style="vertical-align:top">**Taste & Thoughts**</td>
+      <td markdown="span"></td>
+    </tr>
+  </tbody>
+</table>
+
+It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.
+<br>
+<br>
+<center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
+</p>
+</details>
+<hr style="border: 1px dashed #C0C0C0; margin-top: 10px; margin-bottom: 10px;">
+
+<!-------- Insert New Log -------->
+<details>
+  <summary><b><tt><font size="5">Hershey's Chocolate Milk</font></tt></b></summary>
+
+<p>
+<table style="width:100%">
+  <colgroup>
+    <col width="30%" />
+    <col width="62%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td markdown="span">**Country, Region**</td>
+      <td markdown="span">China, Xiamen</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Company**</td>
+      <td markdown="span">NiuNai Co.</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Price**</td>
+      <td markdown="span">20 元</td>
+    </tr>
+    <tr>
+      <td markdown="span">**My Rating**</td>
+      <td markdown="span">&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+    </tr>
+    <tr>
+      <td markdown="span" style="vertical-align:top">**Taste & Thoughts**</td>
+      <td markdown="span"></td>
+    </tr>
+  </tbody>
+</table>
+
+It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.
+<br>
+<br>
+<center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
+</p>
+</details>
+
+
+<!-------- Insert New Log -------->

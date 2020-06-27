@@ -7,7 +7,7 @@ date: 2015-07-06 07:59:00
 <details>
   <summary><b>China Chocolate Soy Milk</b></summary>
   
-<div style="white-space: pre" style="line-height:150%;">
+<div style="white-space: pre; line-height: 150%">
 Wallace Stevens
 Call the roller of big cigars,    
 The muscular one, and bid him whip    

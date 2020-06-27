@@ -63,7 +63,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><tt><font size="5">Chocolate Mocha from 7/11</font></tt></b></summary>
+  <summary><b><tt><font size="5">美国的7/11</font></tt></b></summary>
 
 <p>
 <table style="width:100%">

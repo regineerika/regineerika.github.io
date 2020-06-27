@@ -18,17 +18,17 @@ Bring flowers in last month's newspapers.
 Let be be finale of seem.    
 The only emperor is the emperor of ice-cream.       
 </div>
-</details><br>
+</details><br><hr>
 
 <details>
   <summary><b>チョコミルク</b></summary>
   A po' boy (also po-boy, po boy) is a traditional sandwich from Louisiana. It almost always consists of meat, which is usually roast beef or fried seafood, often shrimp, crawfish, fish, oysters or crab.
-</details><br>
+</details><br><hr>
 
 <details>
   <summary><b>Chocolate Mocha from 7/11</b></summary>
   Use Google Maps.
-</details><br>
+</details><br><hr>
 
 <details>
   <summary><b>Hershey's Chocolate Milk</b></summary>
@@ -41,7 +41,7 @@ The only emperor is the emperor of ice-cream.
   </colgroup>
   <tbody>
     <tr>
-      <td markdown="span">**Country, City**</td>
+      <td markdown="span">**Country / Region**</td>
       <td markdown="span">China, Xiamen</td>
     </tr>
     <tr>
@@ -67,4 +67,4 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 <br>
 <br>
 <center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
-</details>
+</details><hr>

@@ -34,7 +34,39 @@ The only emperor is the emperor of ice-cream.
   <summary><b>Chocolate Mocha from 7/11</b></summary>
 
 <p>
-  Use Google Maps.
+<table style="width:100%">
+  <colgroup>
+    <col width="30%" />
+    <col width="62%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td markdown="span">**Country, Region**</td>
+      <td markdown="span">xx</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Company**</td>
+      <td markdown="span">xx</td>
+    </tr>
+    <tr>
+      <td markdown="span">**Price**</td>
+      <td markdown="span">xx</td>
+    </tr>
+    <tr>
+      <td markdown="span">**My Rating**</td>
+      <td markdown="span">&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+    </tr>
+    <tr>
+      <td markdown="span" style="vertical-align:top">**Taste & Thoughts**</td>
+      <td markdown="span"></td>
+    </tr>
+  </tbody>
+</table>
+
+It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.It was creamy but diluted. Sad really.
+<br>
+<br>
+<center><img src="/img/Ses.jpg" width="40%" height="40%"></center>
 </p><br>
 </details>
 

@@ -5,7 +5,7 @@ date: 2015-07-06 07:59:00
 ---
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><tt><font size="4">China Chocolate Soy Milk</font></tt></b></summary>
+  <summary><b><tt><font size="5">China Chocolate Soy Milk</font></tt></b></summary>
   
 <p>
 Wallace Stevens
@@ -22,7 +22,7 @@ The only emperor is the emperor of ice-cream.
 
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><tt><font size="4">チョコミルク</font></tt></b></summary>
+  <summary><b><tt><font size="5">チョコミルク</font></tt></b></summary>
 
 <p>
 <table style="width:100%">
@@ -63,7 +63,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><tt><font size="4">Chocolate Mocha from 7/11</font></tt></b></summary>
+  <summary><b><tt><font size="5">Chocolate Mocha from 7/11</font></tt></b></summary>
 
 <p>
 <table style="width:100%">
@@ -104,7 +104,7 @@ It was creamy but diluted. Sad really.It was creamy but diluted. Sad really. It 
 
 <!-------- Insert New Log -------->
 <details>
-  <summary><b><tt><font size="4">Hershey's Chocolate Milk</font></tt></b></summary>
+  <summary><b><tt><font size="5">Hershey's Chocolate Milk</font></tt></b></summary>
 
 <p>
 <table style="width:100%">

@@ -19,7 +19,7 @@ Let be be finale of seem.
 The only emperor is the emperor of ice-cream.       
 </p><br>
 </details>
-<hr class="style3">
+<hr class="style6">
 <!-------- Insert New Log -------->
 <details>
   <summary><b><tt><font size="5">チョコミルク</font></tt></b></summary>

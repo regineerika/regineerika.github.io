@@ -4,7 +4,7 @@ title: Chocolate Milk Files
 date: 2015-07-06 07:59:00
 ---
 <!-------- Insert New Log -------->
-<p style="line-height:16px"><details>
+<p style="line-height:10px"><details>
   <summary><b>China Chocolate Soy Milk</b></summary>
   
 <div style="white-space: pre">

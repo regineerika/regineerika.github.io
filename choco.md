@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /choco/
-title: drink log
+title: log
 description: Files of different drinks and my thoughts on them.
 ---
 
